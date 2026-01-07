@@ -1,0 +1,1 @@
+Built a Python web scraper that collected used car listings from multiple dealership sites, filtered results by make/model/price, and exported the final dataset into an Excel report for a friend.
